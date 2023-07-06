@@ -1,4 +1,4 @@
-# CppProjectTemplate
+# CppCmakeTemplate
 
 ## WARNING
 
