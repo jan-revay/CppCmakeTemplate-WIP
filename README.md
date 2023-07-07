@@ -1,4 +1,4 @@
-# CppCmakeTemplate
+# CppCmakeTemplate - TODO
 
 ## WARNING
 
@@ -8,3 +8,7 @@ Use this repo as an inspiration: https://github.com/cpp-best-practices/cmake_tem
 
 Another example: https://github.com/HappyCerberus/simple-cpp-devenv
 VSC devcontainer extension: https://code.visualstudio.com/docs/devcontainers/tutorial
+
+Further inspiration:
+
+- https://github.com/catchorg/Catch2
