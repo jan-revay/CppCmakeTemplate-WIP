@@ -14,3 +14,4 @@ Further inspiration:
 - https://github.com/catchorg/Catch2
 - https://itnext.io/save-your-sanity-and-time-beyond-clang-format-2b929b9120b8
 - https://itnext.io/simple-and-consistent-c-development-environment-c08cf8d93ed9
+- https://simontoth.substack.com/p/daily-bite-of-c-modern-documentation
