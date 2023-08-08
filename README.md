@@ -12,3 +12,4 @@ VSC devcontainer extension: https://code.visualstudio.com/docs/devcontainers/tut
 Further inspiration:
 
 - https://github.com/catchorg/Catch2
+- https://itnext.io/save-your-sanity-and-time-beyond-clang-format-2b929b9120b8
