@@ -22,3 +22,4 @@ Further inspiration:
 
 https://github.com/cpp-best-practices/cmake_template/tree/develop/.github
 https://github.com/compiler-explorer/clang-builder/blob/main/Dockerfile
+https://github.com/compiler-explorer/gcc-builder
