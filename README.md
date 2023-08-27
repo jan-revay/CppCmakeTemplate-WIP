@@ -16,3 +16,8 @@ Further inspiration:
 - https://itnext.io/simple-and-consistent-c-development-environment-c08cf8d93ed9
 - https://simontoth.substack.com/p/daily-bite-of-c-modern-documentation
 - https://github.com/mattgodbolt/conan-test
+
+
+## CI
+
+https://github.com/cpp-best-practices/cmake_template/tree/develop/.github
