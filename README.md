@@ -21,3 +21,4 @@ Further inspiration:
 ## CI
 
 https://github.com/cpp-best-practices/cmake_template/tree/develop/.github
+https://github.com/compiler-explorer/clang-builder/blob/main/Dockerfile
