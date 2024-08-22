@@ -20,12 +20,14 @@ Further inspiration:
 
 ## CI
 
-https://github.com/cpp-best-practices/cmake_template/tree/develop/.github
-https://github.com/compiler-explorer/clang-builder/blob/main/Dockerfile
-https://github.com/compiler-explorer/gcc-builder
+- https://github.com/cpp-best-practices/cmake_template/tree/develop/.github
+- https://github.com/compiler-explorer/clang-builder/blob/main/Dockerfile
+- https://github.com/compiler-explorer/gcc-builder
 
-# TOREAD
+## TOREAD
 
-https://github.com/analysis-tools-dev/dynamic-analysis
-https://github.com/analysis-tools-dev
-https://github.com/analysis-tools-dev/static-analysis?tab=readme-ov-file#cpp
+### Static and dynamic analysis
+
+- https://github.com/analysis-tools-dev/dynamic-analysis
+- https://github.com/analysis-tools-dev
+- https://github.com/analysis-tools-dev/static-analysis?tab=readme-ov-file#cpp
